@@ -1,6 +1,3 @@
-# access_key = "BsdSOUM4lsVc3kyyaXhHiIxoDrVSWNg5ECOWbWqi"
-# secret_key = "thYfcnigBI4RRtAkcPxT9cot2sox3CxH0E2UrJX6"
-
 import pyupbit
 import time
 import datetime
